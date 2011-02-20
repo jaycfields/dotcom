@@ -1,0 +1,13 @@
+<h3>Refactoring: Ruby Edition Errata</h3>
+<p>
+Errors in the first printing:
+<br><br>
+<b>Page 9</b>, the amount_for method should have <code>this_amount</code> as the last line of the method. Without the additional <code>this_amount</code> the code can return nil when the inline if is false.
+<br><br>
+<b>Page 29</b>, the Customer class (UML) should contain <code>total_charge</code>, not <code>charge</code>
+<br><br>
+<b>Page 30</b>, in the html_statement method of the Customer class, <code>each.movie.title</code> should be <code>element.movie.title</code>
+<br><br>
+Despite our (Shane, Martin, Jay, and the copy editors) best care some errors always manage to get through. Please accept heartfelt apologies. 
+<br><br>
+We would also like to thank those people who have contributed corrections: A. Lester Buck III.

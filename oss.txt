@@ -1,0 +1,35 @@
+<h3>Open Source</h3>
+<p>
+  I believe in contributing to Open Source Software. Contributing to Open Source allows me to give back to the communities that often help me deliver successful applications. The list of projects below represent projects that I've contributed to by way of commiting code or providing patches.
+</p>
+<h3>Clojure</h3>
+<p>
+  <ul>
+    <li class="oss-item"><a href="http://http://github.com/jaycfields/expectations">Expectations</a> is a lightweight testing framework that allows you to test more with less syntax.</li>
+  </ul>
+</p>
+<h3>Ruby</h3>
+<p>
+  <ul>
+    <li class="oss-item"><a href="http://validatable.rubyforge.org">Validatable</a> is a framework that allows you to add validations to any Plain Old Ruby Object (PORO).</li>
+    <li class="oss-item"><a href="http://arbs.rubyforge.org">Arbs</a> is a framework that allows you to create classes that mimic ActiveRecord::Base classes, thus allowing you to test classes that inherit from ActiveRecord::Base without actually utilizing any of the magic provided by ActiveRecord.</li>
+    <li class="oss-item"><a href="http://expectations.rubyforge.org">Expectations</a> is a lightweight unit testing framework that allows you focus on testing objects in isolation, which attempts to promote more robust and maintainable tests.</li>
+    <li class="oss-item"><a href="http://sqldsl.rubyforge.org">SqlDsl</a> is a framework for writing SQL statements using Ruby syntax.</li>
+    <li class="oss-item"><a href="http://dust.rubyforge.org">Dust</a> is a framework for creating more readable test names when using Test::Unit</li>
+    <li class="oss-item"><a href="http://mocha.rubyforge.org">Mocha</a> is a mocking framework I often use while Unit Testing.</li>
+    <li class="oss-item"><a href="http://rails.rubyforge.org">Ruby on Rails</a> is a web application framework that makes building web applications fun again.
+  </ul>
+</p>
+<h3>Java</h3>
+<p>
+  <ul>
+    <li class="oss-item"><a href="http://www.mockito.org">Mockito</a> is a mocking framework that lets you write beautiful tests with clean & simple API.</li>
+  </ul>
+</p>
+<h3>.Net</h3>
+<p>
+  <ul>
+    <li class="oss-item"><a href="http://gforge.public.thoughtworks.org/projects/norm/">Norm</a> is a object relational mapper designed with the ActiveRecord pattern in mind.</li>
+    <li class="oss-item"><a href="http://www.picocontainer.org/">PicoContainer.net</a> is a dependency injection framework.</li>
+  </ul>
+</p>

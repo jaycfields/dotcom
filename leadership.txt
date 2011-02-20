@@ -1,0 +1,21 @@
+<h3>What to look for in a Lead Consultant</h3>
+<p>
+  These are not my ideas, they were given to me. I wanted to store them in a safe place, which is why they can be found on my website.
+</p>
+<ul>
+<li class="oss-item">Voice of authority to the client on technical matters, meaning that I'm looking for someone who can establish their own credibility with senior client staff, including non-technical managers. This means knowing what the client values and being able to communicate the important issues, not hung up on trivial issues.
+
+<li class="oss-item">Leading developers by example. Other developers, particularly junior developers, will pick up and mimic behaviors of their lead developer in ways that may not even be obvious to either one of them. I look for the senior devs to understand this and model the behavior that want to see from their team.
+
+<li class="oss-item">Understanding that it's not just about coding cards. This means making sure the relationship between the development team and the BAs and testers is fruitful and productive. Obviously, the PM and IM also have a role to play here but the senior developers are even more influential with other developers.
+
+<li class="oss-item">Herding the technical team. This means being the guy to make sure the unfun cards get done, everyone responds to broken builds, and that there is a sense of signing up to and committing to work. A lot of this can come from the leadership by example but there is also a vocal component that I'm talking about here. Not being a cheerleader but willing and able to facilitate decision making in groups and address issues one-on-one as appropriate.
+
+<li class="oss-item">Confidence-by-proxy.  That is, your teams just feels safer/better/stronger when you're there, vs when you're not.
+
+<li class="oss-item">Escalation conduit.  Your team naturally pulls you into their trouble, or invites your contributions to their challenges/achievements
+
+<li class="oss-item">Professional reflection.  Your team is eager to hear your thoughts on their individual capabilities, reach.
+
+<li class="oss-item">An interesting indicator is often the 'are they talking about what I think when I'm not there' test. That is, do they find themselves bringing your ideas/opinions/objectives into conversations, even when you're not present.  Kind of a fun 'tell' of a powerful influencer/leader.
+</ul>

@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <!-- Meta Data -->
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="description" content="Jay Fields Website" />
+  <meta name="keywords" content="jay, fields" />
+
+  <!-- Site Title -->
+  <title>Jay Fields</title>
+
+  <!-- Link to Style External Sheet -->
+  <link href="style.css" type="text/css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+  <div id='page_wrapper'>
+
+    <div id='page_header'>
+      <h1>Jay Fields</h1>
+      <h2>Rre_errata</h2>
+    </div>
+
+    <div id='menu_bar'>
+
+      <div id="navcontainer">
+        <ul id="navlist">
+          <li><a href="index.htm">Home</a></li>
+          <li><a href="http://blog.jayfields.com">Blog</a></li>
+          <li><a href="articles.htm">Articles</a></li>
+          <li><a href="books.htm">Books</a></li>
+          <li><a href="oss.htm">Open Source</a></li>
+          <li><a href="http://www.drwtrading.com">DRW Trading</a></li>
+          <li><a href="mailto:contact@jayfields.com">Contact</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div id='content_wrapper'>
+
+      <div class='spacer'></div>
+
+      <div id='left_side'>
+
+        <h3>Refactoring: Ruby Edition Errata</h3>
+<p>
+Errors in the first printing:
+<br><br>
+<b>Page 9</b>, the amount_for method should have <code>this_amount</code> as the last line of the method. Without the additional <code>this_amount</code> the code can return nil when the inline if is false.
+<br><br>
+<b>Page 29</b>, the Customer class (UML) should contain <code>total_charge</code>, not <code>charge</code>
+<br><br>
+<b>Page 30</b>, in the html_statement method of the Customer class, <code>each.movie.title</code> should be <code>element.movie.title</code>
+<br><br>
+Despite our (Shane, Martin, Jay, and the copy editors) best care some errors always manage to get through. Please accept heartfelt apologies. 
+<br><br>
+We would also like to thank those people who have contributed corrections: A. Lester Buck III.
+
+      </div>
+
+        <div id='right_side'>
+          <div id="pic" style="padding: 0px 0px 0px 10px">
+            <img src="pic.jpg"/>
+          </div>
+          <div id="pic" style="padding: 30px 0px 0px 0px">
+            <a href="http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321603508">
+				      <img src="refactoring.jpg"/>
+			      </a>
+          </div>
+          <div id="pic" style="padding: 20px 0px 0px 0px"> </div>
+
+          <h3>upcoming presentations</h3>
+          <p>
+                  <a href="http://speakerconf.com/">speakerconf Aruba 2011</a>
+      			<br><br>
+                  <a href="http://speakerconf.com/">speakerconf Rome 2011</a>
+      			<br><br>
+            <a href="mailto:speak@jayfields.com">Invite me to speak at a conference</a>
+          </p>
+
+        </div>
+
+        <div class='spacer'></div>
+
+      </div>
+
+      <div id='page_footer'>
+        <p>
+          Template provided by <a href="http://www.designsbydarren.com/" target="new">Designs by Darren</a>. 
+          Released under a <a href="http://creativecommons.org/licenses/by-nc/2.5/" target="new">Creative Commons License</a>.<br />
+          <a href="http://validator.w3.org/check?uri=referer" target="new">Valid XHTML 1.0 Transitional</a>
+        </p>
+
+      </div>
+
+    </div>
+
+  </body>
+
+  </html>

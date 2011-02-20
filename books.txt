@@ -1,0 +1,25 @@
+<h3>Books</h3>
+<div id="pic" style="padding: 0px 0px 0px 10px">
+  <a href="http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321603508"><img src="refactoring.jpg"/></a>
+</div>
+<p>
+<a href="http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321603508">Refactoring: Ruby Edition</a> (Author): Refactoring, Ruby Edition, blends the original content of Martin Fowler's Refactoring with lessons of the past 10 years, resulting in a thorough demonstration of how Ruby practitioners can realize the significant benefits of Refactoring.
+<br><br>
+<a href="rre_errata.htm">| Errata |</a>
+</p>
+<br>
+<div id="pic" style="padding: 0px 0px 0px 10px">
+  <a href="http://www.amazon.co.jp/gp/product/4048678841/ref=s9_simh_gw_p14_d0_i1?pf_rd_m=AN1VRQENFRJN5&pf_rd_s=center-1&pf_rd_r=05FYFD4WYEZQQVVQBZNH&pf_rd_t=101&pf_rd_p=463376736&pf_rd_i=489986"><img src="rre-jp.jpeg"/></a>
+</div>
+<p>
+<a
+href="http://www.amazon.co.jp/gp/product/4048678841/ref=s9_simh_gw_p14_d0_i1?pf_rd_m=AN1VRQENFRJN5&pf_rd_s=center-1&pf_rd_r=05FYFD4WYEZQQVVQBZNH&pf_rd_t=101&pf_rd_p=463376736&pf_rd_i=489986">Refactoring:
+Ruby Edition (in Japanese)</a> (Author): See above description.
+</p>
+<br>
+<div id="pic" style="padding: 0px 0px 0px 10px">
+  <a href="http://www.pragprog.com/titles/fr_arr/advanced-rails-recipes"><img src="fr_arr.jpg"/></a>
+</div>
+<p>
+<a href="http://www.pragprog.com/titles/fr_arr/advanced-rails-recipes">Advanced Rails Recipes</a> (Contributor): With the help of a community of Rails chefs in the kitchen, here are 84 new ways to kick your Rails apps up a notch. Advanced Rails Recipes is a collection of practical recipes for spicing up your web application without a lot of prep and cleanup.
+</p>

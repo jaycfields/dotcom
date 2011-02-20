@@ -1,0 +1,44 @@
+<h3>Home</h3>
+<p>
+    I am a software developer at DRW Trading. I have a passion for discovering and maturing innovative solutions. My most 
+    recent work has been in the Domain Specific Language space where I've delivered applications that empowered subject matter experts to 
+    write the business rules of the applications.  I am also very interested in maturing software design through developer testing and 
+    software testing in general.        
+</p>
+<br>
+<h3>Most Popular Blog Entries</h3>
+<p><ul>
+  <li><a class="blog_entries" href="http://blog.jayfields.com/2008/06/simplest-thing-that-could-possibly-work.html">The Simplest Thing that could Possibly Work</a></li>
+  <li><a class="blog_entries" href="http://blog.jayfields.com/2008/02/tests-reflect-code-quality.html">Tests Reflect Code Quality</a></li>
+  <li><a class="blog_entries" href="http://blog.jayfields.com/2007/12/is-being-niche-language-developer-good.html">Is being a niche language developer good for your career</a></li>
+</ul></p>
+<br>
+<h3>Most Popular Articles</h3>
+<p><ul>
+  <li><a class="blog_entries" href="http://www.infoq.com/articles/agile-estimation-techniques">User Story Estimation Techniques</a></li>
+  <li><a class="blog_entries" href="http://architects.dzone.com/news/testing-duplicate-code-your-te">Duplicate Code in Your Tests</a></li>
+  <li><a class="blog_entries" href="http://www.infoq.com/articles/fields-it-depends">Software Development Lessons Learned From Poker</a></li>
+</ul></p>
+<br>
+<h3>An Author of Refactoring: Ruby Edition</h3>
+<div id="pic" style="padding: 0px 0px 0px 10px">
+  <a href="http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321603508"><img src="refactoring.jpg"/></a>
+</div>
+<p>
+<a href="http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321603508">Refactoring: Ruby Edition</a> (Author): Refactoring, Ruby Edition, blends the original content of Martin Fowler's Refactoring with lessons of the past 10 years, resulting in a thorough demonstration of how Ruby practitioners can realize the significant benefits of Refactoring.
+</p>
+<br>
+<h3>An Organizer of speakerconf</h3>
+<div id="pic" style="padding: 0px 0px 0px 10px">
+  <a href="http://www.speakerconf.com"><img src="speakerconf.jpg"/></a>
+</div>
+<p>
+<a href="http://www.speakerconf.com">speakerconf</a>: Imagine a conference where all the attendees are conference speakers themselves. Most of them will present during this conference, but all will actively participate in lively, interactive sessions where over-the-horizon information technology innovations are presented and discussed. speakerconf is that conference.
+</p>
+<br>
+<h3>Recorded Presentations</h3>
+<p><ul>
+  <li><a class="blog_entries" href="http://www.infoq.com/presentations/fields-business-natural-languages-ruby">Business Natural Languages Development in Ruby</a></li>
+  <li><a class="blog_entries" href="http://www.infoq.com/presentations/5W-of-DSL">The 5Ws of DSLs</a></li>
+  
+</ul></p>
