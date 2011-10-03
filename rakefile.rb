@@ -5,6 +5,7 @@ task :publish => :build do
   require 'net/ftp'
 
   Net::FTP.open('ftp.jayfields.com') do |ftp|
+    ftp.login('jaycf', 'jaycf1')
     Dir['build/*'].each do |chapter|
       ftp.passive = true
       if chapter =~ /jpg$/
