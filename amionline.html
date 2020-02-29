@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <script>
+      var online = false;
+      var now = null;
+
+      function prependLine(text) {
+	var newText = new Date().toLocaleString() + ": " + text + "<br>";
+	document.body.innerHTML = newText + document.body.innerHTML
+      }
+
+      function amionline() {
+	now = new Date().toLocaleString();
+	console.log("runnit: " + now);
+	loadImage("https://fast.com/assets/poweredby-fit-4f0259.png?now="+Math.random());
+	setTimeout(amionline, 30000);
+      }
+
+      function loadImage(url) {
+	var timer;
+	function clearTimer() {
+          if (timer) {
+            clearTimeout(timer);
+            timer = null;
+          }
+	}
+
+	function handleFail() {
+          // kill previous error handlers
+          this.onload = this.onabort = this.onerror = function() {};
+          // stop existing timer
+          clearTimer();
+	  document.body.bgColor = "#FFCCCB";
+	  online = false;
+	  prependLine("disconnected");
+	}
+
+	var img = new Image();
+	img.onerror = img.onabort = handleFail;
+	img.onload = function() {
+          clearTimer();
+	  if (!online) {
+	    prependLine("connected<br>");
+	    document.body.bgColor = "lightgreen";
+	    online = true;
+	  }
+	};
+	img.src = url;
+	timer = setTimeout(function(theImg) {
+          return function() {
+            handleFail.call(theImg);
+          };
+	}(img), 1000);
+	return(img);
+      }
+    </script>
+  </head>
+
+  <body onload="amionline()">
+    <img style="visibility:hidden" id='check_pic'>
+  </body>
+</html>
